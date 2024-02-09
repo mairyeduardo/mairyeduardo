@@ -21,7 +21,7 @@ Sempre busco o melhor resultado e comprometido. desenvolvendo estratégias de te
 - Frameworks para automação:
 Selenium WebDriver, Cypress, Robot Framework, python+behave
 
-<img src="https://i.pinimg.com/564x/4e/41/77/4e41775de0ab9f6d3f55448861a7946e.png" min-width="300px" max-width="300px" width="300px" align="right" alt="notebook wcfx">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="notebook wcfx">
 
 - Linguagens de Programação: 
 Java, Kotlin, xml, node.js, python e JavaScript.
