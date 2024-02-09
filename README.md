@@ -33,6 +33,12 @@ Scrum, Kanban, Lean, BDD, TDD.
 - Bancos de Dados: 
 Mysql, h2 e Postgresql, MongoDB.
 
+<div>
+  <p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mairyeduardo&theme=blueberry&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
+</div>
+
+<p align="center"><em>💡 "Seja a mudança que você deseja ver no mundo!"</em>
 
 ## 💻 Tech Stack:
 
