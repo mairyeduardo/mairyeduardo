@@ -12,8 +12,6 @@
 ## 📖 Sobre mim:
 Sou profissional da area de qualidade, atuando a 2 anos como QA Engineer, onde passei por projetos desenvolvendo automação de testes, testes funcionais, testes de api ( com foco em testes de integração )
 
-![Ze Imagem](https://courier-images-web.imgix.net/static/img/meta_image.png?auto=compress,format&fit=max&w=undefined&h=undefined&dpr=2&fm=png)
-
 - Frameworks para automação:
 Selenium WebDriver, Cypress, Robot Framework, python+behave
 
