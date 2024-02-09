@@ -9,7 +9,7 @@
 
 
 ## 📖 Sobre mim:
-Sou profissional da area de qualidade, atuando a 2 anos como QA Engineer, onde passei por projetos desenvolvendo automação de testes, testes funcionais, testes de api ( com foco em testes de integração )<br><br>Possuo tambem experiencias com desenvolvimento de software, o que me fez sempre auxiliar desenvolvedores caso necessário... estou sempre em busca de novos desafios
+Sou profissional da area de qualidade, atuando a 2 anos como QA Engineer, onde passei por projetos desenvolvendo automação de testes, testes funcionais, testes de api ( com foco em testes de integração )
 
 
 - Frameworks para automação:
