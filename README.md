@@ -3,9 +3,8 @@
 - 🔭 Atualmente estou trabalhando como QA Engineer no Projeto do Zé delivery
 - 🌱 Estudando AWS Cloud Service
 - 📚 Hobbie: Leitura
-- 📫 Contate-me via linkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mairy-eduardo) 
+- 🌐 Contate-me via linkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mairy-eduardo) 
 - 📫 Contate-me por email: mairyeduardo@gmail.com
-
 
 
 ## 📖 Sobre mim:
@@ -33,9 +32,6 @@ Scrum, Kanban, Lean, BDD, TDD.
 - Bancos de Dados: 
 Mysql, h2 e Postgresql, MongoDB.
 
-
-## 🌐 LinkedIn:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mairy-eduardo) 
 
 ## 💻 Tech Stack:
 
