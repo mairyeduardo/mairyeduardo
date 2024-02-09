@@ -1,3 +1,5 @@
+<img src="https://courier-images-web.imgix.net/static/img/meta_image.png?auto=compress,format&fit=max&w=undefined&h=undefined&dpr=2&fm=png" min-width="300px" max-width="300px" width="300px" align="right" alt="notebook wcfx">
+
 ## 🖐 Bem-Vindo 
 
 - 🔭 Atualmente estou trabalhando como QA Engineer no Projeto do Zé delivery
