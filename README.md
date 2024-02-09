@@ -40,7 +40,7 @@ Mysql, h2 e Postgresql, MongoDB.
 ## 📊 Linguagens mais utilizadas:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mairyeduardo&theme=blueberry&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🔝 Top Contributed Repo
+## 🔝 Contribuições em Repositórios
 ![](https://github-contributor-stats.vercel.app/api?username=mairyeduardo&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
