@@ -2,7 +2,7 @@
 ## 🖐 Bem-Vindo 
 <img src="https://www.ze.delivery/_next/image?url=https%3A%2F%2Fcourier-images-web.imgix.net%2Fstatic%2Fimg%2Flogo-white-text.png%3Fauto%3Dcompress%2Cformat%26fit%3Dmax%26w%3D176%26h%3D56%26dpr%3D2%26fm%3Dpng&w=384&q=75" min-width="300px" max-width="300px" width="300px" align="right" alt="notebook wcfx">
 
-- 🔭 Atualmente estou trabalhando como QA Engineer no Projeto do Zé delivery
+- 🔭 Atualmente estou trabalhando como QA Engineer no Projeto do Zé Delivery
 - 🌱 Estudando AWS Cloud Service
 - 📚 Hobbie: Leitura
 - 🌐 Contate-me via linkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mairy-eduardo) 
