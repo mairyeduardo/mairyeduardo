@@ -16,6 +16,8 @@ Trabalho com foco em automação de testes, testes manuais e estratégia de test
 Sempre tive o apreço pela área de testes focados em automação, estou utilizando meu conhecimento para desenvolver testes automatizados para web e mobile. Com o uso do Selenium WebDriver / Cypress e do RobotFramework.
 Sempre busco o melhor resultado e comprometido. desenvolvendo estratégias de teste eficientes e garantindo que os requisitos de qualidade sejam atendidos.
 
+## 💻 Em minha experiência na área utilizei os(as) seguintes:
+
 - Frameworks para automação:
 Selenium WebDriver, Cypress, Robot Framework, python+behave
 
@@ -43,8 +45,6 @@ Mysql, h2 e Postgresql, MongoDB.
 </div>
 
 <p align="center"><em>💡 "Seja a mudança que você deseja ver no mundo!"</em>
-
-## 💻 Tech Stack:
 
 <div>
   </br>
