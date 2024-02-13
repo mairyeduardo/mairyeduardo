@@ -10,7 +10,7 @@
 
 
 ## 📖 Sobre mim:
-Sou um profissional da area de qualidade, atuando a 2 anos como QA Engineer, onde passei por projetos desenvolvendo automação de testes, testes funcionais, testes de api ( com foco em testes de integração )
+Sou um profissional da area de qualidade, atuando como QA Engineer, onde passei por projetos desenvolvendo automação de testes, testes funcionais, testes de api ( com foco em testes de integração )
 Trabalho com foco em automação de testes, testes manuais e estratégia de testes. Tenho conhecimento no uso de ferramentas como Selenium WebDriver, Cypress, RobotFramework e Postman.
 
 Sempre tive o apreço pela área de testes focados em automação, estou utilizando meu conhecimento para desenvolver testes automatizados para web e mobile. Com o uso do Selenium WebDriver / Cypress e do RobotFramework.
